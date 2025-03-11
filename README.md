@@ -1,1 +1,1 @@
-![ec.drawio.png](..%2F..%2F..%2FDownloads%2Fec.drawio.png)
+![ec.drawio.png](ec.drawio.png)
