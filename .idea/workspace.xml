@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4fc3e0b2-cf56-458b-9f6d-25c8b677923d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/iterator/ColecaoProduto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/iterator/ListaDeProdutos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/iterator/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/iterator/ProdutoIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Iterator/ProdutoIteratorTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +20,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Python Script" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -78,7 +82,7 @@
       <recent name="C:\Users\jorez\OneDrive\Área de Trabalho\TrabalhoFinal" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.PedidoFactoryTest">
+  <component name="RunManager" selected="JUnit.ProdutoIteratorTest">
     <configuration name="AbstractFactoryTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="TrabalhoFinal" />
       <extension name="coverage">
@@ -140,16 +144,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VerificacaoPedidoTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ProdutoIteratorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="TrabalhoFinal" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ChainofResponsibility.*" />
+          <option name="PATTERN" value="Iterator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ChainofResponsibility" />
-      <option name="MAIN_CLASS_NAME" value="ChainofResponsibility.VerificacaoPedidoTest" />
+      <option name="PACKAGE_NAME" value="Iterator" />
+      <option name="MAIN_CLASS_NAME" value="Iterator.ProdutoIteratorTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -157,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ProdutoIteratorTest" />
         <item itemvalue="JUnit.PedidoFactoryTest" />
         <item itemvalue="JUnit.AbstractFactoryTest (1)" />
         <item itemvalue="JUnit.AbstractFactoryTest.testBoletoFactory" />
         <item itemvalue="JUnit.AbstractFactoryTest" />
-        <item itemvalue="JUnit.VerificacaoPedidoTest (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +178,7 @@
       <option name="presentableId" value="Default" />
       <updated>1741536226440</updated>
       <workItem from="1741536227537" duration="8374000" />
-      <workItem from="1741705216898" duration="10420000" />
+      <workItem from="1741705216898" duration="10879000" />
     </task>
     <servers />
   </component>
