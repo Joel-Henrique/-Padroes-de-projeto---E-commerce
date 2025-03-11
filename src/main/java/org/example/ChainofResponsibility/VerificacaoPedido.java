@@ -2,7 +2,7 @@ package org.example.ChainofResponsibility;
 
 import org.example.FactoryMethod.Pedido;
 
-abstract class VerificacaoPedido {
+public abstract class VerificacaoPedido {
     protected VerificacaoPedido proximo;
 
     public void setProximo(VerificacaoPedido proximo) {
@@ -11,7 +11,7 @@ abstract class VerificacaoPedido {
 
     public String verificar(Pedido pedido) {
         if (proximo != null) {
-            proximo.verificar(pedido);
+            return proximo.verificar(pedido);
         }
         return null;
     }

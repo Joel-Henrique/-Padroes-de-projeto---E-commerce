@@ -1,6 +1,6 @@
 package org.example.FactoryMethod;
 
-class PedidoExpresso extends Pedido {
+public class PedidoExpresso extends Pedido {
     public PedidoExpresso(double valor) {
         super(valor);
     }

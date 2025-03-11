@@ -5,40 +5,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4fc3e0b2-cf56-458b-9f6d-25c8b677923d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/AbstractFactory/BoletoFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/AbstractFactory/CartaoFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/AbstractFactory/MetodoPagamento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/AbstractFactory/PagamentoBoleto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/AbstractFactory/PagamentoCartao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/AbstractFactory/PagamentoFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ChainofResponsibility/VerificacaoPedido.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ChainofResponsibility/VerificarCarrinho.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ChainofResponsibility/VerificarEstoque.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ChainofResponsibility/VerificarPagamento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Decorator/DescontoPedido.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Decorator/PedidoDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/FactoryMethod/Pedido.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/FactoryMethod/PedidoExpresso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/FactoryMethod/PedidoFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/FactoryMethod/PedidoNormal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Observer/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Observer/Notificador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Observer/Observador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Singleton/CarrinhoDeCompras.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/State/EstadoPedido.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/State/PedidoContexto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/State/PedidoEntregue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/State/PedidoEnviado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/State/PedidoRecebido.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Strategy/FreteExpresso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Strategy/FreteNormal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Strategy/FreteStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/AbstractFactory/AbstractFactoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ChainofResponsibility/VerificacaoPedidoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Decorator/PedidoDecoratorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/FactoryMethod/PedidoFactoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Observer/ObservadorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Singleton/CarrinhoDeComprasTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/State/EstadoPedidoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Strategy/FreteStrategyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AbstractFactory/BoletoFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/AbstractFactory/BoletoFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AbstractFactory/CartaoFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/AbstractFactory/CartaoFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AbstractFactory/PagamentoBoleto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/AbstractFactory/PagamentoBoleto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AbstractFactory/PagamentoCartao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/AbstractFactory/PagamentoCartao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ChainofResponsibility/VerificacaoPedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ChainofResponsibility/VerificacaoPedido.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ChainofResponsibility/VerificarCarrinho.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ChainofResponsibility/VerificarCarrinho.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ChainofResponsibility/VerificarEstoque.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ChainofResponsibility/VerificarEstoque.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ChainofResponsibility/VerificarPagamento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ChainofResponsibility/VerificarPagamento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Decorator/DescontoPedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Decorator/DescontoPedido.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/FactoryMethod/PedidoExpresso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/FactoryMethod/PedidoExpresso.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/FactoryMethod/PedidoFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/FactoryMethod/PedidoFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/FactoryMethod/PedidoNormal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/FactoryMethod/PedidoNormal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Observer/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Observer/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Observer/Notificador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Observer/Notificador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Singleton/CarrinhoDeCompras.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Singleton/CarrinhoDeCompras.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/State/PedidoContexto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/State/PedidoContexto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/State/PedidoEntregue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/State/PedidoEntregue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/State/PedidoEnviado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/State/PedidoEnviado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Strategy/FreteExpresso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Strategy/FreteExpresso.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +44,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Python Script" />
         <option value="Class" />
       </list>
     </option>
@@ -56,9 +52,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2u5R0KLxSE8FZOte6NrtnDxWppw" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -67,6 +63,25 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "JUnit.AbstractFactoryTest.executor": "Run",
+    "JUnit.AbstractFactoryTest.testBoletoFactory.executor": "Run",
+    "JUnit.CarrinhoDeComprasTest (1).executor": "Run",
+    "JUnit.CarrinhoDeComprasTest.deveRetornarMesmaInstanciaSingleton.executor": "Run",
+    "JUnit.CarrinhoDeComprasTest.executor": "Run",
+    "JUnit.EstadoPedidoTest.deveIniciarComEstadoPedidoRecebido.executor": "Run",
+    "JUnit.EstadoPedidoTest.executor": "Run",
+    "JUnit.FreteStrategyTest (1).executor": "Run",
+    "JUnit.FreteStrategyTest.deveCalcularFreteExpressoCorretamente.executor": "Run",
+    "JUnit.FreteStrategyTest.deveCalcularFreteNormalCorretamente.executor": "Run",
+    "JUnit.FreteStrategyTest.deveCalcularFreteParaValoresDiferentes.executor": "Run",
+    "JUnit.FreteStrategyTest.executor": "Run",
+    "JUnit.ObservadorTest.executor": "Run",
+    "JUnit.PedidoDecoratorTest.executor": "Run",
+    "JUnit.PedidoFactoryTest.executor": "Run",
+    "JUnit.VerificacaoPedidoTest (1).executor": "Run",
+    "JUnit.VerificacaoPedidoTest.executor": "Run",
+    "JUnit.VerificacaoPedidoTest.testVerificarCarrinhoVazio.executor": "Run",
+    "JUnit.VerificacaoPedidoTest.testVerificarPagamentoInvalido.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -81,6 +96,93 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="JUnit.AbstractFactoryTest (1)">
+    <configuration name="AbstractFactoryTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TrabalhoFinal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AbstractFactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="AbstractFactory" />
+      <option name="MAIN_CLASS_NAME" value="AbstractFactory.AbstractFactoryTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AbstractFactoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TrabalhoFinal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.AbstractFactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.AbstractFactory" />
+      <option name="MAIN_CLASS_NAME" value="org.example.AbstractFactory.AbstractFactoryTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AbstractFactoryTest.testBoletoFactory" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TrabalhoFinal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.AbstractFactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.AbstractFactory" />
+      <option name="MAIN_CLASS_NAME" value="org.example.AbstractFactory.AbstractFactoryTest" />
+      <option name="METHOD_NAME" value="testBoletoFactory" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VerificacaoPedidoTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TrabalhoFinal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ChainofResponsibility.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ChainofResponsibility" />
+      <option name="MAIN_CLASS_NAME" value="ChainofResponsibility.VerificacaoPedidoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VerificacaoPedidoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TrabalhoFinal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.ChainofResponsibility.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.ChainofResponsibility" />
+      <option name="MAIN_CLASS_NAME" value="org.example.ChainofResponsibility.VerificacaoPedidoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AbstractFactoryTest (1)" />
+        <item itemvalue="JUnit.AbstractFactoryTest.testBoletoFactory" />
+        <item itemvalue="JUnit.AbstractFactoryTest" />
+        <item itemvalue="JUnit.VerificacaoPedidoTest (1)" />
+        <item itemvalue="JUnit.VerificacaoPedidoTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -90,6 +192,7 @@
       <option name="presentableId" value="Default" />
       <updated>1741536226440</updated>
       <workItem from="1741536227537" duration="8374000" />
+      <workItem from="1741705216898" duration="5836000" />
     </task>
     <servers />
   </component>

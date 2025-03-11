@@ -1,6 +1,6 @@
 package org.example.Decorator;
 import org.example.FactoryMethod.Pedido;
-class DescontoPedido extends PedidoDecorator {
+public class DescontoPedido extends PedidoDecorator {
     private double desconto;
 
     public DescontoPedido(Pedido pedido, double desconto) {

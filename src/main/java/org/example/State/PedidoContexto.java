@@ -14,4 +14,8 @@ public class PedidoContexto {
     public void avancarEstado() {
         estado.avancar(this);
     }
+
+    public EstadoPedido getEstado() {
+        return this.estado;
+    }
 }

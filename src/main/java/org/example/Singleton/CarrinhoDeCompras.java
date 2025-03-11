@@ -22,6 +22,9 @@ public class CarrinhoDeCompras {
         }
         return instance;
     }
+    public void limpar() {
+        this.itens.clear();
+    }
 
     public String adicionarItem(String item) {
         itens.add(item);

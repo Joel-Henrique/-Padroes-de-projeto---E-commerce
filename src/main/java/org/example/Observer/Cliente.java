@@ -1,13 +1,20 @@
 package org.example.Observer;
 
-class Cliente implements Observador {
+public class Cliente implements Observador {
     private String nome;
+    private String ultimaMensagem = "";
 
     public Cliente(String nome) {
         this.nome = nome;
     }
 
+    @Override
     public String atualizar(String mensagem) {
-        return("Cliente " + nome + " recebeu a notificação: " + mensagem);
+        this.ultimaMensagem = "Cliente " + nome + " recebeu a notificação: " + mensagem;
+        return (ultimaMensagem);
+    }
+
+    public String getUltimaMensagem() {
+        return ultimaMensagem;
     }
 }

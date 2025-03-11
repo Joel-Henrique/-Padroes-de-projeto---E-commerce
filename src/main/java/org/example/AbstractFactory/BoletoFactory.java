@@ -1,7 +1,7 @@
 package org.example.AbstractFactory;
 
-class BoletoFactory implements PagamentoFactory {
+public class BoletoFactory implements PagamentoFactory {
     public MetodoPagamento criarPagamento() {
-            return new PagamentoCartao();
+        return new PagamentoBoleto();
     }
 }
