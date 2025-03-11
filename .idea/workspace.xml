@@ -5,35 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4fc3e0b2-cf56-458b-9f6d-25c8b677923d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/AbstractFactory/AbstractFactoryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ChainofResponsibility/VerificacaoPedidoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Decorator/PedidoDecoratorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/FactoryMethod/PedidoFactoryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Observer/ObservadorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Singleton/CarrinhoDeComprasTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/State/EstadoPedidoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Strategy/FreteStrategyTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AbstractFactory/BoletoFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/AbstractFactory/BoletoFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AbstractFactory/CartaoFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/AbstractFactory/CartaoFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AbstractFactory/PagamentoBoleto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/AbstractFactory/PagamentoBoleto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AbstractFactory/PagamentoCartao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/AbstractFactory/PagamentoCartao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ChainofResponsibility/VerificacaoPedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ChainofResponsibility/VerificacaoPedido.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ChainofResponsibility/VerificarCarrinho.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ChainofResponsibility/VerificarCarrinho.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ChainofResponsibility/VerificarEstoque.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ChainofResponsibility/VerificarEstoque.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ChainofResponsibility/VerificarPagamento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ChainofResponsibility/VerificarPagamento.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Decorator/DescontoPedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Decorator/DescontoPedido.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/FactoryMethod/PedidoExpresso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/FactoryMethod/PedidoExpresso.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/FactoryMethod/PedidoFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/FactoryMethod/PedidoFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/FactoryMethod/PedidoNormal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/FactoryMethod/PedidoNormal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Observer/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Observer/Cliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Observer/Notificador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Observer/Notificador.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Singleton/CarrinhoDeCompras.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Singleton/CarrinhoDeCompras.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/State/PedidoContexto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/State/PedidoContexto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/State/PedidoEntregue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/State/PedidoEntregue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/State/PedidoEnviado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/State/PedidoEnviado.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Strategy/FreteExpresso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Strategy/FreteExpresso.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +36,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "JUnit.AbstractFactoryTest (1).executor": "Run",
     "JUnit.AbstractFactoryTest.executor": "Run",
     "JUnit.AbstractFactoryTest.testBoletoFactory.executor": "Run",
     "JUnit.CarrinhoDeComprasTest (1).executor": "Run",
@@ -96,7 +70,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.AbstractFactoryTest (1)">
+  <component name="RunManager" selected="JUnit.PedidoFactoryTest">
     <configuration name="AbstractFactoryTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="TrabalhoFinal" />
       <extension name="coverage">
@@ -143,6 +117,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PedidoFactoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TrabalhoFinal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FactoryMethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="FactoryMethod" />
+      <option name="MAIN_CLASS_NAME" value="FactoryMethod.PedidoFactoryTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="VerificacaoPedidoTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="TrabalhoFinal" />
       <extension name="coverage">
@@ -158,28 +147,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VerificacaoPedidoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="TrabalhoFinal" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.ChainofResponsibility.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.example.ChainofResponsibility" />
-      <option name="MAIN_CLASS_NAME" value="org.example.ChainofResponsibility.VerificacaoPedidoTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.PedidoFactoryTest" />
         <item itemvalue="JUnit.AbstractFactoryTest (1)" />
         <item itemvalue="JUnit.AbstractFactoryTest.testBoletoFactory" />
         <item itemvalue="JUnit.AbstractFactoryTest" />
         <item itemvalue="JUnit.VerificacaoPedidoTest (1)" />
-        <item itemvalue="JUnit.VerificacaoPedidoTest" />
       </list>
     </recent_temporary>
   </component>
@@ -192,7 +166,7 @@
       <option name="presentableId" value="Default" />
       <updated>1741536226440</updated>
       <workItem from="1741536227537" duration="8374000" />
-      <workItem from="1741705216898" duration="5836000" />
+      <workItem from="1741705216898" duration="10040000" />
     </task>
     <servers />
   </component>
